@@ -1,4 +1,3 @@
 # GitHub
-All Local Projects
+Local Projects
 
-Projects associated with claswork at UTD for CS 2336
